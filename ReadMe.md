@@ -27,7 +27,8 @@ https://registry.platformio.org/libraries/iavorvel/MyLD2410
 ---
 
 ### Connection diagram:
-image
+
+![ESP32-C#_LD2410C](https://raw.githubusercontent.com/RobertNeat/LD2410C_human_presence/refs/heads/main/images/connection_diagram.png)
 
 * out pin will have high state if it senses presence according to the sensor configuration
 ---
